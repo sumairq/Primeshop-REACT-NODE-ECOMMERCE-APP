@@ -4,4 +4,6 @@ Primeshop is an ecommerce platform.
 
 ## Authors 
 
-Sumair Qaisar
+Sumair Qaisar 
+
+## Technologies
